@@ -5,7 +5,7 @@ function MainNavbar() {
   return (
     <Navbar bg="light" expand="lg" sticky="top">
       <Container>
-        <img src="./images/logo.png" alt="Logo" width="30" height="30" className="d-inline-block align-top" />
+        <img src="/logo.png" alt="Logo" width="30" height="30" className="d-inline-block align-top" />
         <Navbar.Brand href="#">Green Heart</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbar-nav" />
         <Navbar.Collapse id="navbar-nav">

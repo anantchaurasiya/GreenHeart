@@ -2,8 +2,8 @@ import React from 'react';
 import { Container, Row, Col, Card } from 'react-bootstrap';
 
 const projects = [
-  { title: "Residential Villa", image: "./images/project.png", desc: "Turnkey interiors for a villa." },
-  { title: "Commercial Office", image: "./images/project2.png", desc: "Corporate workspace design & build." },
+  { title: "Residential Villa", image: "/project.png", desc: "Turnkey interiors for a villa." },
+  { title: "Commercial Office", image: "/project2.png", desc: "Corporate workspace design & build." },
 ];
 
 function Projects() {
