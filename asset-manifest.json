@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/anantchaurasiya/GreenHeart/static/css/main.8f6f7baa.css",
-    "main.js": "/anantchaurasiya/GreenHeart/static/js/main.385c213c.js",
-    "index.html": "/anantchaurasiya/GreenHeart/index.html",
-    "main.8f6f7baa.css.map": "/anantchaurasiya/GreenHeart/static/css/main.8f6f7baa.css.map",
-    "main.385c213c.js.map": "/anantchaurasiya/GreenHeart/static/js/main.385c213c.js.map"
+    "main.css": "/GreenHeart/static/css/main.8f6f7baa.css",
+    "main.js": "/GreenHeart/static/js/main.385c213c.js",
+    "index.html": "/GreenHeart/index.html",
+    "main.8f6f7baa.css.map": "/GreenHeart/static/css/main.8f6f7baa.css.map",
+    "main.385c213c.js.map": "/GreenHeart/static/js/main.385c213c.js.map"
   },
   "entrypoints": [
     "static/css/main.8f6f7baa.css",
